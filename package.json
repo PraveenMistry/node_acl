@@ -1,0 +1,25 @@
+{
+  "name": "in-acl",
+  "version": "1.0.0",
+  "description": "Simple node_acl example with mongoDB and expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "acl"
+  ],
+  "author": "Praveen Mistry",
+  "license": "none",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/praveenMistry/node_acl"
+  },
+  "dependencies": {
+    "acl": "^0.4.11",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.4"
+  }
+}
